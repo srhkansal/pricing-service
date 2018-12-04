@@ -1,0 +1,13 @@
+---
+
+# comments in a manifest file
+
+Applications:
+  -name: pricing-service
+timeout: 180
+instances: 1
+host: eskay-pricing-service
+memory: 1024M
+path: /target/pricing-service-0.0.1-SNAPSHOT.jar
+
+

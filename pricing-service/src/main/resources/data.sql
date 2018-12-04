@@ -1,0 +1,1 @@
+insert into pricing_bean(id, start_date, end_date, display_name, description, type, price) values (1, '01/01/2017', '12/31/2020', 'iru_price', 'Price for IRU users', 'iru', 1000);
